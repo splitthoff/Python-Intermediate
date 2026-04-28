@@ -1,4 +1,5 @@
 print("test")
+print("test2")
 
 # lists: ordered, mutable, allows duplicate elements
 print("list:")
